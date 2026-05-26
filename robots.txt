@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://psungs1226-star.github.io/sitemap.xml
